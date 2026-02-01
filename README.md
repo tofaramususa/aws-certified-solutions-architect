@@ -1,0 +1,6 @@
+Goals of the exam:
+- Design solutions that incorporate AWS services to meet current business
+requirements and future projected needs
+• Design architectures that are secure, resilient, high-performing, and cost-
+optimized
+• Review existing solutions and determine improvements
